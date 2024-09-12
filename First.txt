@@ -1,0 +1,26 @@
+about ur project and what work u have done?
+
+what is static keyword ?
+
+write the output of a code
+
+function overloading and over-riding and encapsulation
+
+reverse a List using 2 pointer
+
+types of dependency injection
+
+dbms query using offset and limit
+
+questions on ur project like how many ways u can insert data in redis cache
+
+what is orm and what are they used for
+
+leetcode problem of parenthesis validation
+
+difference between String str="text" and String str=new String("text")?
+
+joins
+
+Hello forst of all IM sUBHANKAR sHAW, Ive completed my btech in 2022, then I got an offer from Cognizant. At first I did a training for 6 months then I got deployed as a java backend.
+Over there I was part of a notification team where we developed a real time application using redis cache. The tech stack we used was java Spring boot and as of out data base we used redshift which is a sequal data base; Then after that due to some personal issue I had to dropoff but during that time I joined scaler for upscaling, and now when Iam ready again I applying for interviews
